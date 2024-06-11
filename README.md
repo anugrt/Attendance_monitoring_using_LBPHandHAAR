@@ -8,9 +8,6 @@ Face Recognition: Implements LBP for recognizing faces detected.
 Attendance Tracking: Keeps track of attendance based on recognized faces.
 
 
-ChatGPT
-A README file typically serves as a guide or introduction to a project. For attendance monitoring using Local Binary Patterns (LBP) and Haar Cascades, your README might include the following sections:
-
 Attendance Monitoring Using LBP and Haar Cascades
 Overview
 This project utilizes Local Binary Patterns (LBP) and Haar Cascades for attendance monitoring. It employs computer vision techniques to detect faces, recognize them using LBP, and track attendance.
